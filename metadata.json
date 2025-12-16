@@ -1,0 +1,7 @@
+{
+  "shell-version": ["46"],
+  "uuid": "lidstate@fakeshell.bardia.tech",
+  "name": "Lid State",
+  "description": "Indicates lid state (open or closed).",
+  "url": "https://github.com/fakeshell/gnome-shell-extension-lidstate"
+}
